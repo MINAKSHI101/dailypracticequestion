@@ -7,7 +7,7 @@ if(x>y){
     cout<<x<<"  greater";
     }
 
-else if(x<yy){
+else if(x<y){
     cout<<y<<"greter";
     }
 else{
